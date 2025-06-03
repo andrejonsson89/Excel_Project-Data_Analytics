@@ -21,7 +21,7 @@ The following Excel skills were utilized for analysis:
 
 ### Data Jobs Dataset
 
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available [here](0_Resources/Datasets)
+The dataset used for this project contains real-world data science job information from 2023. The dataset is available [here](Excel_Project-Data_Analytics/0_Resources/Datasets)
 
 - **👨‍💼 Job titles**
 - **💰 Salaries**
